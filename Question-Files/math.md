@@ -3,4 +3,6 @@
  
   What is 2x squared? 
   
+ 1. [4x2](pie.md)  
+  2.  [2x2](math1.md)
   
