@@ -1,11 +1,11 @@
 # Welcome to the Science Challenge  
 
 ---
-### Question : _If there's a new moon every month. Where does the old one go?_
+### Question : _If there's a new moon every month. Where does the old one go?_  
 
-![moon](../images/full moon.jpg)  
+![moon](../images/fullmoon.jpg)    
 
-Image taken from [flickr.com/photos/blachswan/33749536295](https://www.flickr.com/photos/blachswan/33749536295)  
+`photo credit : Ed Dunens on` [`Flicker`](https://www.flickr.com/photos/blachswan/33749536295)
 
 A. [The moon changes its phase](green.md)  
 B. [Our moon was always old in the first place](blue.md)  
