@@ -1,4 +1,4 @@
-# Current : Math Challenge
+# Current : Math / Logic Challenge
 ---
 
 ### Look at the image and choose your answer  
