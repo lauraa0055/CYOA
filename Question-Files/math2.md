@@ -8,6 +8,5 @@
 1. [1 Square](../endings/end4b.md)  
 2. [2 Squares](../endings/end4.md)  
 3. [3 Squares](../endings/end7.md)  
-4. [4 Squares](../endings/end7.md)  
-5. [6 Squares](../endings/end3.md)  
-6. [7 Squares](../endings/end3b.md)  
+4. [6 Squares](../endings/end3.md)  
+5. [7 Squares](../endings/end3b.md)  
